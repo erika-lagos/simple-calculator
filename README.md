@@ -1,0 +1,1 @@
+This is a simple web-based calculator I built to practice Javacript and HTML / CSS
